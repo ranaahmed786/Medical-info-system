@@ -1,0 +1,1 @@
+Name of patient: sww, Reg id of patient: swsw, Gender: sw, Checkin date: sws, Checkin time: sww, Disease: sws

@@ -1,0 +1,1 @@
+Name of patient: rana, Reg id of patient: 34z, Gender: male, Checkin date: 2-3-2024, Checkin time: headache_with_severe_legpain, Disease: cancer
